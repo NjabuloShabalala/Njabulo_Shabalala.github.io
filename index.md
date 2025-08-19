@@ -3,16 +3,30 @@ layout: default
 title: Home
 ---
 
-> Booting njabulo.shabalala.portfolio...
-> System check... OK.
-> Loading profile...
----
+<style>
+  body {
+    color: white;
+    background-color: black;
+  }
+  strong, b, h1, h2, h3, blockquote {
+    color: #00ff41; /* Matrix green */
+  }
+  /* Style the command prompt lines */
+  .prompt {
+    color: #00ff41;
+    font-family: monospace;
+  }
+</style>
+
+<p class="prompt">> Booting njabulo.shabalala.portfolio...</p>
+<p class="prompt">> System check... OK.</p>
+<p class="prompt">> Loading profile...</p>
 
 # Njabulo Shabalala
 
 ### Cybersecurity & Cloud Security Professional
 
-> Welcome, user. Initializing profile overview...
+<p class="prompt">> Welcome, user. Initializing profile overview...</p>
 
 An emerging cybersecurity professional specializing in **Security Operations (SOC)**, **Cloud Security**, and **Risk Management**. My mission is to build and defend secure digital infrastructures by applying modern defensive strategies and threat intelligence to protect enterprise assets in the cloud.
 
@@ -42,6 +56,4 @@ This portfolio documents my technical projects and learning journey. You'll find
 
 To secure a role in a **Security Operations Center (SOC)** or a **Cloud Security** team where I can apply my defensive skills to protect critical systems and contribute to a robust security posture. My long-term goal is to evolve into a **Cloud Security Architect**, specializing in designing and implementing zero-trust security frameworks for scalable, resilient cloud environments.
 
----
-
-> End of transmission.
+<p class="prompt">> End of transmission.</p>
