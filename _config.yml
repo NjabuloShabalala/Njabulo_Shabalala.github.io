@@ -1,15 +1,15 @@
-# Site settings
 title: "Njabulo Shabalala — Cybersecurity Portfolio"
 description: "Cybersecurity | Cloud Security | SOC Analysis | Building secure systems in the cloud"
+theme: hacker
+
+# Automatic navigation menu
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+
 author: "Njabulo Shabalala"
 show_downloads: false
-
-# Theme
-theme: jekyll-theme-hacker
-
-# GitHub metadata
-# This is used by the jekyll-github-metadata plugin
-github:
-  is_project_page: false
 
 # linkedin_username: njabulo-shabalala-9216821a3
