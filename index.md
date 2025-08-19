@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 > Booting njabulo.shabalala.portfolio...
 > System check... OK.
 > Loading profile...
@@ -38,4 +43,5 @@ This portfolio documents my technical projects and learning journey. You'll find
 To secure a role in a **Security Operations Center (SOC)** or a **Cloud Security** team where I can apply my defensive skills to protect critical systems and contribute to a robust security posture. My long-term goal is to evolve into a **Cloud Security Architect**, specializing in designing and implementing zero-trust security frameworks for scalable, resilient cloud environments.
 
 ---
+
 > End of transmission.
