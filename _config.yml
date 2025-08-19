@@ -1,6 +1,8 @@
 title: "Njabulo Shabalala — Cybersecurity Portfolio"
 description: "Cybersecurity | Cloud Security | SOC Analysis | Building secure systems in the cloud"
-theme: hacker
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-theme-hacker
 
 # Automatic navigation menu
 nav:
@@ -11,5 +13,3 @@ nav:
 
 author: "Njabulo Shabalala"
 show_downloads: false
-
-# linkedin_username: njabulo-shabalala-9216821a3
